@@ -1,5 +1,5 @@
 {
-  "name": "email-validation",
+  "name": "nodejs-email-validation",
   "version": "1.0.0",
   "description": "node package to validate email",
   "main": "index.js",
