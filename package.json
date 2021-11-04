@@ -1,0 +1,26 @@
+{
+  "name": "email-validation",
+  "version": "1.0.0",
+  "description": "node package to validate email",
+  "main": "index.js",
+  "scripts": {
+    "install": "sudo npm -g install mocha",
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volt1c/email-validation.git"
+  },
+  "keywords": [
+    "mail",
+    "email",
+    "validation",
+    "validator"
+  ],
+  "author": "Kamil Pawlaczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volt1c/email-validation/issues"
+  },
+  "homepage": "https://github.com/volt1c/email-validation#readme"
+}
