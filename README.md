@@ -1,12 +1,12 @@
-# email-validation
+# nodejs-email-validation
 
-Email-validation is a zero-dependency module that validate emils.
+Nodejs-email-validation is a zero-dependency module that validate emils.
 
 ## Install
 
 ```bash
-npm install email-validation
-yarn add email-validation
+npm install nodejs-email-validation
+yarn add nodejs-email-validation
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ yarn add email-validation
 #### Javascript
 
 ```js
-const emailValidation = require('email-validation')
+const emailValidation = require('nodejs-email-validation')
 
 emailValidation.validate('example@gmail.com') // true
 ```
@@ -22,7 +22,7 @@ emailValidation.validate('example@gmail.com') // true
 #### Typescript
 
 ```ts
-import * as emailValidation from 'email-validation'
+import * as emailValidation from 'nodejs-email-validation'
 
 emailValidation.validate('example@gmail.com') // true
 ```
