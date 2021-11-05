@@ -34,7 +34,7 @@ emailValidation.validate('example@gmail.com') // true
 #### Install required packages
 
 ```
-$ npm install
+$ sudo npm -g install mocha
 ```
 
 #### Run tests
